@@ -1,3 +1,3 @@
 # Finders
 
-Web Scrappers that find and return data from any specified object. For example, a scrapper that finds all the cat images from a Shelter.
+Scrappers that continuously search for new Objects. These objects then get rated using the Predict Service. If there is a match, a notification is sent to the user.
